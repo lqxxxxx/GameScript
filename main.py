@@ -9,7 +9,8 @@ import win32api
 
 
 #调用软件
-hwnd=win32gui.FindWindowEx(0,0,"Chrome_WidgetWin_1","OAuth application authorized - 360极速浏览器 12.0")
+hwnd = win32gui.FindWindow(0,"Epic Games启动程序")
+#hwnd=win32gui.FindWindowEx(0,0,"Chrome_WidgetWin_1","OAuth application authorized - 360极速浏览器 12.0")
 win32gui.SetForegroundWindow (hwnd)
 
 if(win32gui.IsIconic(hwnd)):
