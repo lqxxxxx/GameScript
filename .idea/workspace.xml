@@ -7,8 +7,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/game_functions.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1dq8AjRwtWtqdv2RCNAhPv4HmtA" />
   <component name="ProjectViewState">
@@ -22,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration name="getHwnd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GameScript" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,10 +123,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.getHwnd" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.getHwnd (1)" />
-        <item itemvalue="Python.gameScript_getHwnd" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593141120651</updated>
       <workItem from="1593141121988" duration="3538000" />
+      <workItem from="1593344799191" duration="4685000" />
     </task>
     <servers />
   </component>
@@ -142,29 +153,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593141695159" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593145650420">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593349476226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593145650420" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593145650420">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593349476226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593349476226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593145650420" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593145650419">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593349476226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593349476226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593145650419" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593145650420">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593349476226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593349476226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593145650420" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593349476226" />
     <state x="376" y="163" key="SettingsEditor" timestamp="1593141627574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="376" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593141627574" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593348831449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593348831449" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GameScript$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1593145650412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GameScript$main.coverage" NAME="main Coverage Results" MODIFIED="1593349476215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GameScript$getHwnd.coverage" NAME="getHwnd Coverage Results" MODIFIED="1593349397661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GameScript$game_bat.coverage" NAME="getHwnd Coverage Results" MODIFIED="1593144681321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GameScript$getHwnd__1_.coverage" NAME="getHwnd (1) Coverage Results" MODIFIED="1593145343544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GameScript$game_bat_2.coverage" NAME="main Coverage Results" MODIFIED="1593145512122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
