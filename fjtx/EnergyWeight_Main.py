@@ -2,6 +2,8 @@
 
 import random
 
+
+
 ''' 配置 '''
 # 配置免费能量
 freeEnergy = 0
